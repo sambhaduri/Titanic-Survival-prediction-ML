@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Prediction - Production ML App
 
-https://www.youtube.com/watch?v=NIVuqNWDNlo
+[![Watch the video]](https://www.youtube.com/watch?v=NIVuqNWDNlo)
 
 A full-stack production-ready Machine Learning application built using:
 

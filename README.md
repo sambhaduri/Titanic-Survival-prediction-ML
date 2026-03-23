@@ -15,5 +15,9 @@ User → Streamlit → FastAPI → Trained Model
 
 ## 🚀 Run with Docker
 
+## Make sure to Install git and Docker to run and then create a folder and run the command below
+
 ```bash
+git init
+git pull https://github.com/SoumalyaBhaduri/Titanic-Survival-Prediction-Machine-Learning-Project.git
 docker-compose up --build
